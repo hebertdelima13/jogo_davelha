@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    font-family: 'Lucida Sans';
+}
+
+.quadrado {
+    text-align: center;
+    width: 50px;
+    background: #ccc;
+    display: inline-block;
+    padding: 40px;
+    font-size: 50px;
+    margin: 5px;
+    cursor: pointer;
+    color: #ccc;
+}
+
+.jogador, .vencedor {
+    font-size: 15px;
+    margin-top: 10px;    
+}
+
+button {
+    margin-top: 10px;
+    width: 120px;
+    height: 30px;
+    background: #ccc;
+    cursor: pointer;
+    text-align: center;
+}
